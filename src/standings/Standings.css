@@ -8,6 +8,19 @@ table {
     display: flex;
     flex-direction: column;
     margin-bottom: 32px;
+    font-size: 14px;
+}
+
+@media only screen and (max-width: 800px) {
+    table {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    table {
+        font-size: 10px;
+    }
 }
 
 table tr {
@@ -25,5 +38,6 @@ table tr th, table tr td {
 }
 
 table tr th:first-child, table tr td:first-child {
+    flex: 3;
     text-align: left;
 }

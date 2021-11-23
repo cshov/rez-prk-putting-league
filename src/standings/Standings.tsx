@@ -8,7 +8,7 @@ function Standings() {
 
     return (
         <div className="standingsWrapper">
-            <h3>Standings</h3>
+            {/*<h3>Standings</h3>*/}
             <table>
                 <tr>
                    <th>Name</th>

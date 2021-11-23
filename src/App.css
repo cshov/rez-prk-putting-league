@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  width: 1000px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -28,10 +28,6 @@ h1 {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
