@@ -6,6 +6,7 @@ function Standings() {
 
     const players: PlayerData[] = [...StandingsData];
 
+    // @ts-ignore
     return (
         <div className="standingsWrapper">
             {/*<h3>Standings</h3>*/}
@@ -14,6 +15,7 @@ function Standings() {
                    <th>Name</th>
                     <th>Week 1</th>
                     <th>Week 2</th>
+                    <th>Week 3</th>
                     <th>Total</th>
                     <th>Average</th>
                     <th>Weeks Played</th>
@@ -23,8 +25,9 @@ function Standings() {
                     <td>{player.Name}</td>
                     <td>{player.Week1}</td>
                     <td>{player.Week2}</td>
+                    <td>{player.Week3}</td>
                     <td>{player.Total}</td>
-                    <td>{player.Average}</td>
+                    <td> {(player.Average !== null) ? Math.round(player.Average * 100) / 100 : "n/a"}</td>
                     <td>{player.WeeksPlayed}</td>
                 </tr>
                 ))}
