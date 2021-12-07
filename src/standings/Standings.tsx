@@ -10,9 +10,11 @@ function Standings() {
     return (
         <div className="standingsWrapper">
             {/*<h3>Standings</h3>*/}
+
+            <p>*Names in bold have qualified for the finals by playing 4 weeks</p>
             <table>
                 <tr>
-                   <th>Name</th>
+                    <th>Name</th>
                     <th>Week 1</th>
                     <th>Week 2</th>
                     <th>Week 3</th>
@@ -23,7 +25,10 @@ function Standings() {
                 </tr>
                 {players.map((player: PlayerData) => (
                 <tr>
-                    <td>{player.Name}</td>
+                    <td>
+                        {(player.WeeksPlayed >= 4) ? <strong>{player.Name}</strong> : player.Name}
+
+                    </td>
                     <td>{(player.Week1 !== null) ? player.Week1 : '-'}</td>
                     <td>{(player.Week2 !== null) ? player.Week2 : '-'}</td>
                     <td>{(player.Week3 !== null) ? player.Week3 : '-'}</td>
