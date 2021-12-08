@@ -5,13 +5,13 @@
     "Week2": 63,
     "Week3": 80,
     "Week4": 66,
-    "Week5": null,
+    "Week5": 108,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 269,
-    "Average": 67.25,
-    "WeeksPlayed": 4
+    "Total": 377,
+    "Average": 75.4,
+    "WeeksPlayed": 5
   },
   {
     "Name": "Colin Shov",
@@ -19,13 +19,13 @@
     "Week2": 58,
     "Week3": 70,
     "Week4": 76,
-    "Week5": null,
+    "Week5": 71,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 263,
-    "Average": 65.75,
-    "WeeksPlayed": 4
+    "Total": 334,
+    "Average": 66.8,
+    "WeeksPlayed": 5
   },
   {
     "Name": "Dylan Horst",
@@ -33,27 +33,13 @@
     "Week2": 70,
     "Week3": 61,
     "Week4": 66,
-    "Week5": null,
+    "Week5": 67,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 252,
-    "Average": 63,
-    "WeeksPlayed": 4
-  },
-  {
-    "Name": "Justin Johnson",
-    "Week1": 61,
-    "Week2": 78,
-    "Week3": 68,
-    "Week4": null,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 207,
-    "Average": 69,
-    "WeeksPlayed": 3
+    "Total": 319,
+    "Average": 63.8,
+    "WeeksPlayed": 5
   },
   {
     "Name": "Rick R",
@@ -61,13 +47,13 @@
     "Week2": 65,
     "Week3": 39,
     "Week4": 51,
-    "Week5": null,
+    "Week5": 73,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 207,
-    "Average": 51.75,
-    "WeeksPlayed": 4
+    "Total": 280,
+    "Average": 56,
+    "WeeksPlayed": 5
   },
   {
     "Name": "Austin K",
@@ -75,7 +61,105 @@
     "Week2": 47,
     "Week3": 48,
     "Week4": 68,
-    "Week5": null,
+    "Week5": 74,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 277,
+    "Average": 55.4,
+    "WeeksPlayed": 5
+  },
+  {
+    "Name": "Justin Johnson",
+    "Week1": 61,
+    "Week2": 78,
+    "Week3": 68,
+    "Week4": null,
+    "Week5": 61,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 268,
+    "Average": 67,
+    "WeeksPlayed": 4
+  },
+  {
+    "Name": "Jim Marnie",
+    "Week1": 28,
+    "Week2": 47,
+    "Week3": 63,
+    "Week4": 44,
+    "Week5": 76,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 258,
+    "Average": 51.6,
+    "WeeksPlayed": 5
+  },
+  {
+    "Name": "Thomas Buckley",
+    "Week1": 35,
+    "Week2": 60,
+    "Week3": 29,
+    "Week4": 44,
+    "Week5": 68,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 236,
+    "Average": 47.2,
+    "WeeksPlayed": 5
+  },
+  {
+    "Name": "Ben Simons",
+    "Week1": 37,
+    "Week2": 46,
+    "Week3": 40,
+    "Week4": 35,
+    "Week5": 60,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 218,
+    "Average": 43.6,
+    "WeeksPlayed": 5
+  },
+  {
+    "Name": "Leo L",
+    "Week1": 55,
+    "Week2": 52,
+    "Week3": 50,
+    "Week4": 38,
+    "Week5": 23,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 218,
+    "Average": 43.6,
+    "WeeksPlayed": 5
+  },
+  {
+    "Name": "Luke R",
+    "Week1": 53,
+    "Week2": 17,
+    "Week3": 44,
+    "Week4": 36,
+    "Week5": 59,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 209,
+    "Average": 41.8,
+    "WeeksPlayed": 5
+  },
+  {
+    "Name": "Sean J",
+    "Week1": 50,
+    "Week2": 46,
+    "Week3": null,
+    "Week4": 56,
+    "Week5": 51,
     "Week6": null,
     "Week7": null,
     "Week8": null,
@@ -84,17 +168,17 @@
     "WeeksPlayed": 4
   },
   {
-    "Name": "Leo L",
-    "Week1": 55,
-    "Week2": 52,
-    "Week3": 50,
-    "Week4": 38,
-    "Week5": null,
+    "Name": "Eric B",
+    "Week1": 35,
+    "Week2": 48,
+    "Week3": 52,
+    "Week4": null,
+    "Week5": 56,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 195,
-    "Average": 48.75,
+    "Total": 191,
+    "Average": 47.75,
     "WeeksPlayed": 4
   },
   {
@@ -112,20 +196,6 @@
     "WeeksPlayed": 3
   },
   {
-    "Name": "Jim Marnie",
-    "Week1": 28,
-    "Week2": 47,
-    "Week3": 63,
-    "Week4": 44,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 182,
-    "Average": 45.5,
-    "WeeksPlayed": 4
-  },
-  {
     "Name": "Mike Teller",
     "Week1": 45,
     "Week2": 54,
@@ -137,20 +207,6 @@
     "Week8": null,
     "Total": 170,
     "Average": 42.5,
-    "WeeksPlayed": 4
-  },
-  {
-    "Name": "Thomas Buckley",
-    "Week1": 35,
-    "Week2": 60,
-    "Week3": 29,
-    "Week4": 44,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 168,
-    "Average": 42,
     "WeeksPlayed": 4
   },
   {
@@ -168,45 +224,31 @@
     "WeeksPlayed": 3
   },
   {
-    "Name": "Ben Simons",
-    "Week1": 37,
-    "Week2": 46,
-    "Week3": 40,
-    "Week4": 35,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 158,
-    "Average": 39.5,
-    "WeeksPlayed": 4
-  },
-  {
-    "Name": "Sean J",
-    "Week1": 50,
-    "Week2": 46,
-    "Week3": null,
-    "Week4": 56,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 152,
-    "Average": 50.666666666666664,
-    "WeeksPlayed": 3
-  },
-  {
-    "Name": "Luke R",
-    "Week1": 53,
-    "Week2": 17,
-    "Week3": 44,
+    "Name": "Jill B",
+    "Week1": 29,
+    "Week2": 22,
+    "Week3": 35,
     "Week4": 36,
-    "Week5": null,
+    "Week5": 38,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 150,
-    "Average": 37.5,
+    "Total": 160,
+    "Average": 32,
+    "WeeksPlayed": 5
+  },
+  {
+    "Name": "Brian Reeves",
+    "Week1": null,
+    "Week2": 34,
+    "Week3": 39,
+    "Week4": 41,
+    "Week5": 30,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 144,
+    "Average": 36,
     "WeeksPlayed": 4
   },
   {
@@ -224,18 +266,18 @@
     "WeeksPlayed": 2
   },
   {
-    "Name": "Eric B",
-    "Week1": 35,
-    "Week2": 48,
-    "Week3": 52,
+    "Name": "Amber H",
+    "Week1": 29,
+    "Week2": 45,
+    "Week3": 29,
     "Week4": null,
-    "Week5": null,
+    "Week5": 35,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 135,
-    "Average": 45,
-    "WeeksPlayed": 3
+    "Total": 138,
+    "Average": 34.5,
+    "WeeksPlayed": 4
   },
   {
     "Name": "Anthony B",
@@ -252,20 +294,6 @@
     "WeeksPlayed": 2
   },
   {
-    "Name": "Jill B",
-    "Week1": 29,
-    "Week2": 22,
-    "Week3": 35,
-    "Week4": 36,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 122,
-    "Average": 30.5,
-    "WeeksPlayed": 4
-  },
-  {
     "Name": "Ian Donnakay",
     "Week1": null,
     "Week2": 83,
@@ -280,18 +308,18 @@
     "WeeksPlayed": 2
   },
   {
-    "Name": "Brian Reeves",
-    "Week1": null,
-    "Week2": 34,
-    "Week3": 39,
-    "Week4": 41,
-    "Week5": null,
+    "Name": "Randall K",
+    "Week1": 58,
+    "Week2": null,
+    "Week3": null,
+    "Week4": null,
+    "Week5": 57,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 114,
-    "Average": 38,
-    "WeeksPlayed": 3
+    "Total": 115,
+    "Average": 57.5,
+    "WeeksPlayed": 2
   },
   {
     "Name": "Brendan S",
@@ -336,18 +364,18 @@
     "WeeksPlayed": 2
   },
   {
-    "Name": "Amber H",
-    "Week1": 29,
-    "Week2": 45,
-    "Week3": 29,
-    "Week4": null,
-    "Week5": null,
+    "Name": "Galen B",
+    "Week1": null,
+    "Week2": null,
+    "Week3": null,
+    "Week4": 34,
+    "Week5": 68,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 103,
-    "Average": 34.333333333333336,
-    "WeeksPlayed": 3
+    "Total": 102,
+    "Average": 51,
+    "WeeksPlayed": 2
   },
   {
     "Name": "Ryan F",
@@ -362,6 +390,20 @@
     "Total": 102,
     "Average": 51,
     "WeeksPlayed": 2
+  },
+  {
+    "Name": "Will M",
+    "Week1": 18,
+    "Week2": null,
+    "Week3": null,
+    "Week4": 13,
+    "Week5": 71,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 102,
+    "Average": 34,
+    "WeeksPlayed": 3
   },
   {
     "Name": "Dave A",
@@ -434,6 +476,20 @@
     "WeeksPlayed": 2
   },
   {
+    "Name": "Mike H",
+    "Week1": null,
+    "Week2": null,
+    "Week3": 46,
+    "Week4": null,
+    "Week5": 42,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 88,
+    "Average": 44,
+    "WeeksPlayed": 2
+  },
+  {
     "Name": "Jon N",
     "Week1": null,
     "Week2": 48,
@@ -460,6 +516,20 @@
     "Total": 67,
     "Average": 33.5,
     "WeeksPlayed": 2
+  },
+  {
+    "Name": "Edith H",
+    "Week1": 31,
+    "Week2": null,
+    "Week3": null,
+    "Week4": 13,
+    "Week5": 22,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 66,
+    "Average": 22,
+    "WeeksPlayed": 3
   },
   {
     "Name": "Jayson Ernst",
@@ -532,18 +602,18 @@
     "WeeksPlayed": 2
   },
   {
-    "Name": "Randall K",
-    "Week1": 58,
-    "Week2": null,
-    "Week3": null,
-    "Week4": null,
-    "Week5": null,
+    "Name": "Alison J",
+    "Week1": null,
+    "Week2": 8,
+    "Week3": 23,
+    "Week4": 12,
+    "Week5": 12,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 58,
-    "Average": 58,
-    "WeeksPlayed": 1
+    "Total": 55,
+    "Average": 13.75,
+    "WeeksPlayed": 4
   },
   {
     "Name": "Kham T",
@@ -586,6 +656,20 @@
     "Total": 52,
     "Average": 17.333333333333332,
     "WeeksPlayed": 3
+  },
+  {
+    "Name": "Matt G",
+    "Week1": null,
+    "Week2": null,
+    "Week3": null,
+    "Week4": null,
+    "Week5": 51,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 51,
+    "Average": 51,
+    "WeeksPlayed": 1
   },
   {
     "Name": "Chris M",
@@ -644,6 +728,20 @@
     "WeeksPlayed": 2
   },
   {
+    "Name": "Matthew F",
+    "Week1": null,
+    "Week2": null,
+    "Week3": null,
+    "Week4": null,
+    "Week5": 49,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 49,
+    "Average": 49,
+    "WeeksPlayed": 1
+  },
+  {
     "Name": "Andy Difronzo",
     "Week1": null,
     "Week2": 48,
@@ -686,34 +784,6 @@
     "WeeksPlayed": 1
   },
   {
-    "Name": "Mike H",
-    "Week1": null,
-    "Week2": null,
-    "Week3": 46,
-    "Week4": null,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 46,
-    "Average": 46,
-    "WeeksPlayed": 1
-  },
-  {
-    "Name": "Edith H",
-    "Week1": 31,
-    "Week2": null,
-    "Week3": null,
-    "Week4": 13,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 44,
-    "Average": 22,
-    "WeeksPlayed": 2
-  },
-  {
     "Name": "Nate L",
     "Week1": null,
     "Week2": 44,
@@ -728,18 +798,18 @@
     "WeeksPlayed": 1
   },
   {
-    "Name": "Alison J",
+    "Name": "Skeeter",
     "Week1": null,
-    "Week2": 8,
-    "Week3": 23,
-    "Week4": 12,
-    "Week5": null,
+    "Week2": null,
+    "Week3": 13,
+    "Week4": null,
+    "Week5": 26,
     "Week6": null,
     "Week7": null,
     "Week8": null,
-    "Total": 43,
-    "Average": 14.333333333333334,
-    "WeeksPlayed": 3
+    "Total": 39,
+    "Average": 19.5,
+    "WeeksPlayed": 2
   },
   {
     "Name": "Pat Desmarais",
@@ -784,20 +854,6 @@
     "WeeksPlayed": 1
   },
   {
-    "Name": "Galen B",
-    "Week1": null,
-    "Week2": null,
-    "Week3": null,
-    "Week4": 34,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 34,
-    "Average": 34,
-    "WeeksPlayed": 1
-  },
-  {
     "Name": "Dave R",
     "Week1": null,
     "Week2": 31,
@@ -838,20 +894,6 @@
     "Total": 31,
     "Average": 31,
     "WeeksPlayed": 1
-  },
-  {
-    "Name": "Will M",
-    "Week1": 18,
-    "Week2": null,
-    "Week3": null,
-    "Week4": 13,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 31,
-    "Average": 15.5,
-    "WeeksPlayed": 2
   },
   {
     "Name": "Bethanne G",
@@ -991,20 +1033,6 @@
     "Week8": null,
     "Total": 14,
     "Average": 14,
-    "WeeksPlayed": 1
-  },
-  {
-    "Name": "Skeeter",
-    "Week1": null,
-    "Week2": null,
-    "Week3": 13,
-    "Week4": null,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 13,
-    "Average": 13,
     "WeeksPlayed": 1
   },
   {
