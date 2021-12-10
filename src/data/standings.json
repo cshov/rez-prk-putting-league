@@ -11,7 +11,12 @@
     "Week8": null,
     "Total": 377,
     "Average": 75.4,
-    "WeeksPlayed": 5
+    "WeeksPlayed": 5,
+    "BestWeek": 108,
+    "SecondBest": 80,
+    "ThirdBest": 66,
+    "FourthBest": 63,
+    "SumOfBests": 317
   },
   {
     "Name": "Colin Shov",
@@ -25,49 +30,12 @@
     "Week8": null,
     "Total": 334,
     "Average": 66.8,
-    "WeeksPlayed": 5
-  },
-  {
-    "Name": "Dylan Horst",
-    "Week1": 55,
-    "Week2": 70,
-    "Week3": 61,
-    "Week4": 66,
-    "Week5": 67,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 319,
-    "Average": 63.8,
-    "WeeksPlayed": 5
-  },
-  {
-    "Name": "Rick R",
-    "Week1": 52,
-    "Week2": 65,
-    "Week3": 39,
-    "Week4": 51,
-    "Week5": 73,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 280,
-    "Average": 56,
-    "WeeksPlayed": 5
-  },
-  {
-    "Name": "Austin K",
-    "Week1": 40,
-    "Week2": 47,
-    "Week3": 48,
-    "Week4": 68,
-    "Week5": 74,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 277,
-    "Average": 55.4,
-    "WeeksPlayed": 5
+    "WeeksPlayed": 5,
+    "BestWeek": 76,
+    "SecondBest": 71,
+    "ThirdBest": 70,
+    "FourthBest": 59,
+    "SumOfBests": 276
   },
   {
     "Name": "Justin Johnson",
@@ -81,7 +49,69 @@
     "Week8": null,
     "Total": 268,
     "Average": 67,
-    "WeeksPlayed": 4
+    "WeeksPlayed": 4,
+    "BestWeek": 78,
+    "SecondBest": 68,
+    "ThirdBest": 61,
+    "FourthBest": 61,
+    "SumOfBests": 268
+  },
+  {
+    "Name": "Dylan Horst",
+    "Week1": 55,
+    "Week2": 70,
+    "Week3": 61,
+    "Week4": 66,
+    "Week5": 67,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 319,
+    "Average": 63.8,
+    "WeeksPlayed": 5,
+    "BestWeek": 70,
+    "SecondBest": 67,
+    "ThirdBest": 66,
+    "FourthBest": 61,
+    "SumOfBests": 264
+  },
+  {
+    "Name": "Rick R",
+    "Week1": 52,
+    "Week2": 65,
+    "Week3": 39,
+    "Week4": 51,
+    "Week5": 73,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 280,
+    "Average": 56,
+    "WeeksPlayed": 5,
+    "BestWeek": 73,
+    "SecondBest": 65,
+    "ThirdBest": 52,
+    "FourthBest": 51,
+    "SumOfBests": 241
+  },
+  {
+    "Name": "Austin K",
+    "Week1": 40,
+    "Week2": 47,
+    "Week3": 48,
+    "Week4": 68,
+    "Week5": 74,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 277,
+    "Average": 55.4,
+    "WeeksPlayed": 5,
+    "BestWeek": 74,
+    "SecondBest": 68,
+    "ThirdBest": 48,
+    "FourthBest": 47,
+    "SumOfBests": 237
   },
   {
     "Name": "Jim Marnie",
@@ -95,7 +125,12 @@
     "Week8": null,
     "Total": 258,
     "Average": 51.6,
-    "WeeksPlayed": 5
+    "WeeksPlayed": 5,
+    "BestWeek": 76,
+    "SecondBest": 63,
+    "ThirdBest": 47,
+    "FourthBest": 44,
+    "SumOfBests": 230
   },
   {
     "Name": "Thomas Buckley",
@@ -109,49 +144,12 @@
     "Week8": null,
     "Total": 236,
     "Average": 47.2,
-    "WeeksPlayed": 5
-  },
-  {
-    "Name": "Ben Simons",
-    "Week1": 37,
-    "Week2": 46,
-    "Week3": 40,
-    "Week4": 35,
-    "Week5": 60,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 218,
-    "Average": 43.6,
-    "WeeksPlayed": 5
-  },
-  {
-    "Name": "Leo L",
-    "Week1": 55,
-    "Week2": 52,
-    "Week3": 50,
-    "Week4": 38,
-    "Week5": 23,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 218,
-    "Average": 43.6,
-    "WeeksPlayed": 5
-  },
-  {
-    "Name": "Luke R",
-    "Week1": 53,
-    "Week2": 17,
-    "Week3": 44,
-    "Week4": 36,
-    "Week5": 59,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 209,
-    "Average": 41.8,
-    "WeeksPlayed": 5
+    "WeeksPlayed": 5,
+    "BestWeek": 68,
+    "SecondBest": 60,
+    "ThirdBest": 44,
+    "FourthBest": 35,
+    "SumOfBests": 207
   },
   {
     "Name": "Sean J",
@@ -165,7 +163,50 @@
     "Week8": null,
     "Total": 203,
     "Average": 50.75,
-    "WeeksPlayed": 4
+    "WeeksPlayed": 4,
+    "BestWeek": 56,
+    "SecondBest": 51,
+    "ThirdBest": 50,
+    "FourthBest": 46,
+    "SumOfBests": 203
+  },
+  {
+    "Name": "Leo L",
+    "Week1": 55,
+    "Week2": 52,
+    "Week3": 50,
+    "Week4": 38,
+    "Week5": 23,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 218,
+    "Average": 43.6,
+    "WeeksPlayed": 5,
+    "BestWeek": 55,
+    "SecondBest": 52,
+    "ThirdBest": 50,
+    "FourthBest": 38,
+    "SumOfBests": 195
+  },
+  {
+    "Name": "Luke R",
+    "Week1": 53,
+    "Week2": 17,
+    "Week3": 44,
+    "Week4": 36,
+    "Week5": 59,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 209,
+    "Average": 41.8,
+    "WeeksPlayed": 5,
+    "BestWeek": 59,
+    "SecondBest": 53,
+    "ThirdBest": 44,
+    "FourthBest": 36,
+    "SumOfBests": 192
   },
   {
     "Name": "Eric B",
@@ -179,7 +220,12 @@
     "Week8": null,
     "Total": 191,
     "Average": 47.75,
-    "WeeksPlayed": 4
+    "WeeksPlayed": 4,
+    "BestWeek": 56,
+    "SecondBest": 52,
+    "ThirdBest": 48,
+    "FourthBest": 35,
+    "SumOfBests": 191
   },
   {
     "Name": "Kyle Gunnagan",
@@ -193,7 +239,31 @@
     "Week8": null,
     "Total": 190,
     "Average": 63.333333333333336,
-    "WeeksPlayed": 3
+    "WeeksPlayed": 3,
+    "BestWeek": 75,
+    "SecondBest": 71,
+    "ThirdBest": 44,
+    "FourthBest": 0,
+    "SumOfBests": 190
+  },
+  {
+    "Name": "Ben Simons",
+    "Week1": 37,
+    "Week2": 46,
+    "Week3": 40,
+    "Week4": 35,
+    "Week5": 60,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 218,
+    "Average": 43.6,
+    "WeeksPlayed": 5,
+    "BestWeek": 60,
+    "SecondBest": 46,
+    "ThirdBest": 40,
+    "FourthBest": 37,
+    "SumOfBests": 183
   },
   {
     "Name": "Mike Teller",
@@ -207,7 +277,12 @@
     "Week8": null,
     "Total": 170,
     "Average": 42.5,
-    "WeeksPlayed": 4
+    "WeeksPlayed": 4,
+    "BestWeek": 54,
+    "SecondBest": 45,
+    "ThirdBest": 40,
+    "FourthBest": 31,
+    "SumOfBests": 170
   },
   {
     "Name": "Joel P",
@@ -221,21 +296,12 @@
     "Week8": null,
     "Total": 167,
     "Average": 55.666666666666664,
-    "WeeksPlayed": 3
-  },
-  {
-    "Name": "Jill B",
-    "Week1": 29,
-    "Week2": 22,
-    "Week3": 35,
-    "Week4": 36,
-    "Week5": 38,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 160,
-    "Average": 32,
-    "WeeksPlayed": 5
+    "WeeksPlayed": 3,
+    "BestWeek": 63,
+    "SecondBest": 62,
+    "ThirdBest": 42,
+    "FourthBest": 0,
+    "SumOfBests": 167
   },
   {
     "Name": "Brian Reeves",
@@ -249,7 +315,12 @@
     "Week8": null,
     "Total": 144,
     "Average": 36,
-    "WeeksPlayed": 4
+    "WeeksPlayed": 4,
+    "BestWeek": 41,
+    "SecondBest": 39,
+    "ThirdBest": 34,
+    "FourthBest": 30,
+    "SumOfBests": 144
   },
   {
     "Name": "Adam Bender",
@@ -263,7 +334,12 @@
     "Week8": null,
     "Total": 140,
     "Average": 70,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 74,
+    "SecondBest": 66,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 140
   },
   {
     "Name": "Amber H",
@@ -277,7 +353,31 @@
     "Week8": null,
     "Total": 138,
     "Average": 34.5,
-    "WeeksPlayed": 4
+    "WeeksPlayed": 4,
+    "BestWeek": 45,
+    "SecondBest": 35,
+    "ThirdBest": 29,
+    "FourthBest": 29,
+    "SumOfBests": 138
+  },
+  {
+    "Name": "Jill B",
+    "Week1": 29,
+    "Week2": 22,
+    "Week3": 35,
+    "Week4": 36,
+    "Week5": 38,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 160,
+    "Average": 32,
+    "WeeksPlayed": 5,
+    "BestWeek": 38,
+    "SecondBest": 36,
+    "ThirdBest": 35,
+    "FourthBest": 29,
+    "SumOfBests": 138
   },
   {
     "Name": "Anthony B",
@@ -291,7 +391,12 @@
     "Week8": null,
     "Total": 123,
     "Average": 61.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 72,
+    "SecondBest": 51,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 123
   },
   {
     "Name": "Ian Donnakay",
@@ -305,7 +410,12 @@
     "Week8": null,
     "Total": 119,
     "Average": 59.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 83,
+    "SecondBest": 36,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 119
   },
   {
     "Name": "Randall K",
@@ -319,7 +429,12 @@
     "Week8": null,
     "Total": 115,
     "Average": 57.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 58,
+    "SecondBest": 57,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 115
   },
   {
     "Name": "Brendan S",
@@ -333,7 +448,12 @@
     "Week8": null,
     "Total": 111,
     "Average": 37,
-    "WeeksPlayed": 3
+    "WeeksPlayed": 3,
+    "BestWeek": 46,
+    "SecondBest": 34,
+    "ThirdBest": 31,
+    "FourthBest": 0,
+    "SumOfBests": 111
   },
   {
     "Name": "Barry Leeper",
@@ -347,7 +467,12 @@
     "Week8": null,
     "Total": 110,
     "Average": 55,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 60,
+    "SecondBest": 50,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 110
   },
   {
     "Name": "Alex Yost",
@@ -361,35 +486,12 @@
     "Week8": null,
     "Total": 106,
     "Average": 53,
-    "WeeksPlayed": 2
-  },
-  {
-    "Name": "Galen B",
-    "Week1": null,
-    "Week2": null,
-    "Week3": null,
-    "Week4": 34,
-    "Week5": 68,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 102,
-    "Average": 51,
-    "WeeksPlayed": 2
-  },
-  {
-    "Name": "Ryan F",
-    "Week1": 53,
-    "Week2": 49,
-    "Week3": null,
-    "Week4": null,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 102,
-    "Average": 51,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 61,
+    "SecondBest": 45,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 106
   },
   {
     "Name": "Will M",
@@ -403,7 +505,50 @@
     "Week8": null,
     "Total": 102,
     "Average": 34,
-    "WeeksPlayed": 3
+    "WeeksPlayed": 3,
+    "BestWeek": 71,
+    "SecondBest": 18,
+    "ThirdBest": 13,
+    "FourthBest": 0,
+    "SumOfBests": 102
+  },
+  {
+    "Name": "Galen B",
+    "Week1": null,
+    "Week2": null,
+    "Week3": null,
+    "Week4": 34,
+    "Week5": 68,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 102,
+    "Average": 51,
+    "WeeksPlayed": 2,
+    "BestWeek": 68,
+    "SecondBest": 34,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 102
+  },
+  {
+    "Name": "Ryan F",
+    "Week1": 53,
+    "Week2": 49,
+    "Week3": null,
+    "Week4": null,
+    "Week5": null,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 102,
+    "Average": 51,
+    "WeeksPlayed": 2,
+    "BestWeek": 53,
+    "SecondBest": 49,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 102
   },
   {
     "Name": "Dave A",
@@ -417,7 +562,12 @@
     "Week8": null,
     "Total": 99,
     "Average": 33,
-    "WeeksPlayed": 3
+    "WeeksPlayed": 3,
+    "BestWeek": 47,
+    "SecondBest": 30,
+    "ThirdBest": 22,
+    "FourthBest": 0,
+    "SumOfBests": 99
   },
   {
     "Name": "Travis B",
@@ -431,7 +581,12 @@
     "Week8": null,
     "Total": 97,
     "Average": 32.333333333333336,
-    "WeeksPlayed": 3
+    "WeeksPlayed": 3,
+    "BestWeek": 35,
+    "SecondBest": 32,
+    "ThirdBest": 30,
+    "FourthBest": 0,
+    "SumOfBests": 97
   },
   {
     "Name": "Nayah",
@@ -445,7 +600,12 @@
     "Week8": null,
     "Total": 95,
     "Average": 47.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 54,
+    "SecondBest": 41,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 95
   },
   {
     "Name": "PJ B",
@@ -459,7 +619,12 @@
     "Week8": null,
     "Total": 91,
     "Average": 45.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 53,
+    "SecondBest": 38,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 91
   },
   {
     "Name": "Dustin H",
@@ -473,7 +638,12 @@
     "Week8": null,
     "Total": 90,
     "Average": 45,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 51,
+    "SecondBest": 39,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 90
   },
   {
     "Name": "Mike H",
@@ -487,7 +657,12 @@
     "Week8": null,
     "Total": 88,
     "Average": 44,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 46,
+    "SecondBest": 42,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 88
   },
   {
     "Name": "Jon N",
@@ -501,7 +676,12 @@
     "Week8": null,
     "Total": 84,
     "Average": 42,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 48,
+    "SecondBest": 36,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 84
   },
   {
     "Name": "Justin K",
@@ -515,7 +695,12 @@
     "Week8": null,
     "Total": 67,
     "Average": 33.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 34,
+    "SecondBest": 33,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 67
   },
   {
     "Name": "Edith H",
@@ -529,7 +714,12 @@
     "Week8": null,
     "Total": 66,
     "Average": 22,
-    "WeeksPlayed": 3
+    "WeeksPlayed": 3,
+    "BestWeek": 31,
+    "SecondBest": 22,
+    "ThirdBest": 13,
+    "FourthBest": 0,
+    "SumOfBests": 66
   },
   {
     "Name": "Jayson Ernst",
@@ -543,7 +733,12 @@
     "Week8": null,
     "Total": 64,
     "Average": 64,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 64,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 64
   },
   {
     "Name": "Ian W",
@@ -557,7 +752,12 @@
     "Week8": null,
     "Total": 63,
     "Average": 31.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 45,
+    "SecondBest": 18,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 63
   },
   {
     "Name": "Greg J",
@@ -571,7 +771,12 @@
     "Week8": null,
     "Total": 61,
     "Average": 61,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 61,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 61
   },
   {
     "Name": "Jeremy H",
@@ -585,7 +790,12 @@
     "Week8": null,
     "Total": 60,
     "Average": 30,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 36,
+    "SecondBest": 24,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 60
   },
   {
     "Name": "Chris Johnson",
@@ -599,7 +809,12 @@
     "Week8": null,
     "Total": 58,
     "Average": 29,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 47,
+    "SecondBest": 11,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 58
   },
   {
     "Name": "Alison J",
@@ -613,7 +828,12 @@
     "Week8": null,
     "Total": 55,
     "Average": 13.75,
-    "WeeksPlayed": 4
+    "WeeksPlayed": 4,
+    "BestWeek": 23,
+    "SecondBest": 12,
+    "ThirdBest": 12,
+    "FourthBest": 8,
+    "SumOfBests": 55
   },
   {
     "Name": "Kham T",
@@ -627,7 +847,12 @@
     "Week8": null,
     "Total": 55,
     "Average": 55,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 55,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 55
   },
   {
     "Name": "Julian Blouch",
@@ -641,7 +866,12 @@
     "Week8": null,
     "Total": 54,
     "Average": 18,
-    "WeeksPlayed": 3
+    "WeeksPlayed": 3,
+    "BestWeek": 23,
+    "SecondBest": 21,
+    "ThirdBest": 10,
+    "FourthBest": 0,
+    "SumOfBests": 54
   },
   {
     "Name": "Kevin Z",
@@ -655,7 +885,12 @@
     "Week8": null,
     "Total": 52,
     "Average": 17.333333333333332,
-    "WeeksPlayed": 3
+    "WeeksPlayed": 3,
+    "BestWeek": 28,
+    "SecondBest": 15,
+    "ThirdBest": 9,
+    "FourthBest": 0,
+    "SumOfBests": 52
   },
   {
     "Name": "Matt G",
@@ -669,21 +904,12 @@
     "Week8": null,
     "Total": 51,
     "Average": 51,
-    "WeeksPlayed": 1
-  },
-  {
-    "Name": "Chris M",
-    "Week1": 23,
-    "Week2": 27,
-    "Week3": null,
-    "Week4": null,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 50,
-    "Average": 25,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 1,
+    "BestWeek": 51,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 51
   },
   {
     "Name": "David D",
@@ -697,7 +923,31 @@
     "Week8": null,
     "Total": 50,
     "Average": 50,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 50,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 50
+  },
+  {
+    "Name": "Chris M",
+    "Week1": 23,
+    "Week2": 27,
+    "Week3": null,
+    "Week4": null,
+    "Week5": null,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 50,
+    "Average": 25,
+    "WeeksPlayed": 2,
+    "BestWeek": 27,
+    "SecondBest": 23,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 50
   },
   {
     "Name": "Anthony H",
@@ -711,21 +961,12 @@
     "Week8": null,
     "Total": 49,
     "Average": 49,
-    "WeeksPlayed": 1
-  },
-  {
-    "Name": "Josh Heake",
-    "Week1": null,
-    "Week2": 13,
-    "Week3": null,
-    "Week4": 36,
-    "Week5": null,
-    "Week6": null,
-    "Week7": null,
-    "Week8": null,
-    "Total": 49,
-    "Average": 24.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 1,
+    "BestWeek": 49,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 49
   },
   {
     "Name": "Matthew F",
@@ -739,7 +980,31 @@
     "Week8": null,
     "Total": 49,
     "Average": 49,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 49,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 49
+  },
+  {
+    "Name": "Josh Heake",
+    "Week1": null,
+    "Week2": 13,
+    "Week3": null,
+    "Week4": 36,
+    "Week5": null,
+    "Week6": null,
+    "Week7": null,
+    "Week8": null,
+    "Total": 49,
+    "Average": 24.5,
+    "WeeksPlayed": 2,
+    "BestWeek": 36,
+    "SecondBest": 13,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 49
   },
   {
     "Name": "Andy Difronzo",
@@ -753,7 +1018,12 @@
     "Week8": null,
     "Total": 48,
     "Average": 48,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 48,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 48
   },
   {
     "Name": "Randy C",
@@ -767,7 +1037,12 @@
     "Week8": null,
     "Total": 48,
     "Average": 48,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 48,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 48
   },
   {
     "Name": "Kevin M",
@@ -781,7 +1056,12 @@
     "Week8": null,
     "Total": 47,
     "Average": 47,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 47,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 47
   },
   {
     "Name": "Nate L",
@@ -795,7 +1075,12 @@
     "Week8": null,
     "Total": 44,
     "Average": 44,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 44,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 44
   },
   {
     "Name": "Skeeter",
@@ -809,7 +1094,12 @@
     "Week8": null,
     "Total": 39,
     "Average": 19.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 26,
+    "SecondBest": 13,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 39
   },
   {
     "Name": "Pat Desmarais",
@@ -823,7 +1113,12 @@
     "Week8": null,
     "Total": 37,
     "Average": 37,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 37,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 37
   },
   {
     "Name": "Ryan O",
@@ -837,7 +1132,12 @@
     "Week8": null,
     "Total": 36,
     "Average": 36,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 36,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 36
   },
   {
     "Name": "Riley B",
@@ -851,7 +1151,12 @@
     "Week8": null,
     "Total": 35,
     "Average": 35,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 35,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 35
   },
   {
     "Name": "Dave R",
@@ -865,7 +1170,12 @@
     "Week8": null,
     "Total": 31,
     "Average": 31,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 31,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 31
   },
   {
     "Name": "Ethan R",
@@ -879,7 +1189,12 @@
     "Week8": null,
     "Total": 31,
     "Average": 31,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 31,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 31
   },
   {
     "Name": "Michael Evans",
@@ -893,7 +1208,12 @@
     "Week8": null,
     "Total": 31,
     "Average": 31,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 31,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 31
   },
   {
     "Name": "Bethanne G",
@@ -907,7 +1227,12 @@
     "Week8": null,
     "Total": 29,
     "Average": 14.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 15,
+    "SecondBest": 14,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 29
   },
   {
     "Name": "Leedom E",
@@ -921,7 +1246,12 @@
     "Week8": null,
     "Total": 25,
     "Average": 25,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 25,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 25
   },
   {
     "Name": "Mike J",
@@ -935,7 +1265,12 @@
     "Week8": null,
     "Total": 25,
     "Average": 25,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 25,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 25
   },
   {
     "Name": "Devon M",
@@ -949,7 +1284,12 @@
     "Week8": null,
     "Total": 24,
     "Average": 24,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 24,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 24
   },
   {
     "Name": "Chris F",
@@ -963,7 +1303,12 @@
     "Week8": null,
     "Total": 23,
     "Average": 23,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 23,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 23
   },
   {
     "Name": "Nancy Elias",
@@ -977,7 +1322,12 @@
     "Week8": null,
     "Total": 23,
     "Average": 11.5,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 13,
+    "SecondBest": 10,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 23
   },
   {
     "Name": "Chris C",
@@ -991,7 +1341,12 @@
     "Week8": null,
     "Total": 22,
     "Average": 22,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 22,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 22
   },
   {
     "Name": "Ed M",
@@ -1005,7 +1360,12 @@
     "Week8": null,
     "Total": 19,
     "Average": 19,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 19,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 19
   },
   {
     "Name": "Katie C",
@@ -1019,7 +1379,12 @@
     "Week8": null,
     "Total": 18,
     "Average": 18,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 18,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 18
   },
   {
     "Name": "Dan F",
@@ -1033,7 +1398,12 @@
     "Week8": null,
     "Total": 14,
     "Average": 14,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 14,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 14
   },
   {
     "Name": "Josh Q",
@@ -1047,7 +1417,12 @@
     "Week8": null,
     "Total": 12,
     "Average": 12,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 12,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 12
   },
   {
     "Name": "Christine Johnson",
@@ -1061,7 +1436,12 @@
     "Week8": null,
     "Total": 11,
     "Average": 11,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 11,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 11
   },
   {
     "Name": "Phil Passett",
@@ -1075,7 +1455,12 @@
     "Week8": null,
     "Total": 10,
     "Average": 10,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 10,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 10
   },
   {
     "Name": "Tim P",
@@ -1089,7 +1474,12 @@
     "Week8": null,
     "Total": 6,
     "Average": 6,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 6,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 6
   },
   {
     "Name": "Kim R",
@@ -1103,7 +1493,12 @@
     "Week8": null,
     "Total": 2,
     "Average": 1,
-    "WeeksPlayed": 2
+    "WeeksPlayed": 2,
+    "BestWeek": 2,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 2
   },
   {
     "Name": "Samantha Blouch",
@@ -1117,6 +1512,11 @@
     "Week8": null,
     "Total": 0,
     "Average": 0,
-    "WeeksPlayed": 1
+    "WeeksPlayed": 1,
+    "BestWeek": 0,
+    "SecondBest": 0,
+    "ThirdBest": 0,
+    "FourthBest": 0,
+    "SumOfBests": 0
   }
 ]

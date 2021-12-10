@@ -11,4 +11,9 @@ export type PlayerData = {
     Total: number;
     Average: number;
     WeeksPlayed: number;
+    BestWeek: number;
+    SecondBest: number;
+    ThirdBest: number;
+    FourthBest: number;
+    SumOfBests: number;
 };

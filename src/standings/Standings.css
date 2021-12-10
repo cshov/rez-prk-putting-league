@@ -7,13 +7,14 @@ table {
     flex: 1;
     display: flex;
     flex-direction: column;
-    margin-bottom: 32px;
+    margin: 0 20px 32px 20px;
     font-size: 14px;
 }
 
 @media only screen and (max-width: 800px) {
     table {
         font-size: 12px;
+
     }
 }
 
@@ -38,6 +39,12 @@ table tr th, table tr td {
 }
 
 table tr th:first-child, table tr td:first-child {
+    flex: none;
+    width: 40px;
+    text-align: left;
+}
+
+table tr th.playerName, table tr td.playerName {
     flex: 3;
     text-align: left;
 }
