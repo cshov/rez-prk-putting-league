@@ -21,6 +21,7 @@ function Standings() {
                     <th>W3</th>
                     <th>W4</th>
                     <th>W5</th>
+                    <th>W6</th>
                     <th>Best 4</th>
                     <th>Total</th>
                     <th>Average</th>
@@ -35,6 +36,7 @@ function Standings() {
                     <td>{(player.Week3 !== null) ? player.Week3 : '-'}</td>
                     <td>{(player.Week4 !== null) ? player.Week4 : '-'}</td>
                     <td>{(player.Week5 !== null) ? player.Week5 : '-'}</td>
+                    <td>{(player.Week6 !== null) ? player.Week6 : '-'}</td>
                     <td>{player.SumOfBests}</td>
                     <td>{player.Total}</td>
                     <td> {(player.Average !== null) ? Math.round(player.Average * 100) / 100 : "n/a"}</td>
