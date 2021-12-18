@@ -51,7 +51,7 @@ table tr th.playerName, table tr td.playerName {
 }
 
 table tr.sortableHeaders {
-    background-color: black;
+    background-color: #282c34;
     color: white;
 }
 
@@ -61,7 +61,7 @@ table th {
 
 table th.sortedColumn {
     font-weight: bold;
-    color: black;
+    color: #282c34;
     background-color: white;
 }
 
@@ -72,5 +72,5 @@ table th.sortable {
 table td.sortedColumn {
     font-weight: bold;
     color: white;
-    background-color: black;
+    background-color: #282c34;
 }
