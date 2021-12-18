@@ -58,7 +58,7 @@ class Standings extends Component {
                     </tr>
                     {sortedData.map((player: PlayerData) => (
                         <tr>
-                            <td>{sortedData.indexOf(player) + 1}</td>
+                            <td>{sortedData[sortedData.indexOf(player)][this.sortedKey] !== null ? sortedData.indexOf(player) + 1 : '-'}</td>
                             <td className="playerName">{(player.WeeksPlayed >= 4) ? <strong>{player.Name}</strong> : player.Name}</td>
                             <td className={this.isSorted('Week1')}>{(player.Week1 !== null) ? player.Week1 : '-'}</td>
                             <td className={this.isSorted('Week2')}>{(player.Week2 !== null) ? player.Week2 : '-'}</td>
