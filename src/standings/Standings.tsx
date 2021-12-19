@@ -77,9 +77,9 @@ class Standings extends Component {
                         <th title="Scores from Week 6" className={this.isSorted('Week6')} onClick={e => this.onSort(e, 'Week6')}>W6</th>
                         <th title="Sum of the best 4 rounds played" className={this.isSorted('SumOfBests')} onClick={e => this.onSort(e, 'SumOfBests')}>Best 4</th>
                         <th title="Standard deviation" className={this.isSorted('StdDev')} onClick={e => this.onSort(e, 'StdDev')}>Std Dev</th>
-                        <th title="Total score for all weeks played" className={this.isSorted('Total')} onClick={e => this.onSort(e, 'Total')}>Total</th>
+                        {/*<th title="Total score for all weeks played" className={this.isSorted('Total')} onClick={e => this.onSort(e, 'Total')}>Total</th>*/}
                         <th title="Average score for all weeks played" className={this.isSorted('Average')} onClick={e => this.onSort(e, 'Average')}>Average</th>
-                        <th title="Number of weeks played" className={this.isSorted('WeeksPlayed')} onClick={e => this.onSort(e, 'WeeksPlayed')}>Weeks Played</th>
+                        {/*<th title="Number of weeks played" className={this.isSorted('WeeksPlayed')} onClick={e => this.onSort(e, 'WeeksPlayed')}>Weeks Played</th>*/}
                     </tr>
                     {sortedData.map((player: PlayerData) => (
                         // <PlayerRow
@@ -99,9 +99,9 @@ class Standings extends Component {
                             <td className={this.isSorted('Week6')}>{(player.Week6 !== null) ? player.Week6 : '-'}</td>
                             <td className={this.isSorted('SumOfBests')}>{player.SumOfBests}</td>
                             <td className={this.isSorted('StdDev')}>{this.getStandardDeviation(player)}</td>
-                            <td className={this.isSorted('Total')}>{player.Total}</td>
+                            {/*<td className={this.isSorted('Total')}>{player.Total}</td>*/}
                             <td className={this.isSorted('Average')}> {(player.Average !== null) ? Math.round(player.Average * 100) / 100 : "n/a"}</td>
-                            <td className={this.isSorted('WeeksPlayed')}>{player.WeeksPlayed}</td>
+                            {/*<td className={this.isSorted('WeeksPlayed')}>{player.WeeksPlayed}</td>*/}
                         </tr>
                     ))}
                 </table>
