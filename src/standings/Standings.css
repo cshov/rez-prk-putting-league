@@ -7,20 +7,27 @@ table {
     flex: 1;
     display: flex;
     flex-direction: column;
-    margin: 0 20px 32px 20px;
+    margin: 0 0 32px 0;
     font-size: 14px;
 }
 
 @media only screen and (max-width: 800px) {
     table {
         font-size: 12px;
-
+        margin: 0 8px 32px 8px;
     }
 }
 
 @media only screen and (max-width: 600px) {
     table {
         font-size: 10px;
+        margin: 0 4px 32px 4px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    table {
+        font-size: 6px;
     }
 }
 
@@ -36,7 +43,6 @@ table tr th, table tr td {
     flex: 1;
     text-align: center;
     padding: 8px 0;
-
 }
 
 table tr th:first-child, table tr td:first-child {
@@ -45,9 +51,22 @@ table tr th:first-child, table tr td:first-child {
     text-align: left;
 }
 
+@media only screen and (max-width: 600px) {
+    table tr th:first-child, table tr td:first-child {
+        width: 20px;
+        text-align: center;
+    }
+}
+
 table tr th.playerName, table tr td.playerName {
     flex: 3;
     text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+    table tr th.playerName, table tr td.playerName {
+        flex: 2;
+    }
 }
 
 table tr.sortableHeaders {
