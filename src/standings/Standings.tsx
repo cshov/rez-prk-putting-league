@@ -3,6 +3,8 @@ import StandingsData from "../data/standings.json";
 import {PlayerData} from "../models/standings-models";
 import {Component, MouseEvent} from "react";
 
+import PlayerRow from '../playerRow/PlayerRow';
+
 class Standings extends Component {
     sortedKey: string;
 
@@ -15,6 +17,9 @@ class Standings extends Component {
 
     componentDidMount() {
         const players: PlayerData[] = [...StandingsData];
+
+        this.addStandardDeviations(players);
+
         this.setState({ data: players })
     }
 
@@ -31,6 +36,25 @@ class Standings extends Component {
             return 'sortable sortedColumn';
         }
         return 'sortable';
+    }
+
+    addStandardDeviations(players: PlayerData[]) {
+        players.forEach((player: PlayerData) => {
+            player.StdDev = this.getStandardDeviation(player);
+        })
+    }
+
+    getStandardDeviation(player: PlayerData) {
+        const unfilteredArray: any[] = [player.Week1, player.Week2, player.Week3, player.Week4, player.Week5, player.Week6, player.Week7, player.Week8 ];
+        const array: number[] = unfilteredArray.filter((val) => typeof(val) === 'number');
+        const n = array.length
+        const mean = array.reduce((a, b) => a + b) / n
+
+        //
+
+        return Math.round(Math.sqrt(array.map(x => Math.pow(x - mean, 2)).reduce((a, b) => a + b) / n) * 100) / 100
+
+        // return Math.sqrt(array.map(x => Math.pow(x - mean, 2)).reduce((a, b) => a + b) / n)
     }
 
     render() {
@@ -52,11 +76,18 @@ class Standings extends Component {
                         <th title="Scores from Week 5" className={this.isSorted('Week5')} onClick={e => this.onSort(e, 'Week5')}>W5</th>
                         <th title="Scores from Week 6" className={this.isSorted('Week6')} onClick={e => this.onSort(e, 'Week6')}>W6</th>
                         <th title="Sum of the best 4 rounds played" className={this.isSorted('SumOfBests')} onClick={e => this.onSort(e, 'SumOfBests')}>Best 4</th>
+                        <th title="Standard deviation" className={this.isSorted('StdDev')} onClick={e => this.onSort(e, 'StdDev')}>Std Dev</th>
                         <th title="Total score for all weeks played" className={this.isSorted('Total')} onClick={e => this.onSort(e, 'Total')}>Total</th>
                         <th title="Average score for all weeks played" className={this.isSorted('Average')} onClick={e => this.onSort(e, 'Average')}>Average</th>
                         <th title="Number of weeks played" className={this.isSorted('WeeksPlayed')} onClick={e => this.onSort(e, 'WeeksPlayed')}>Weeks Played</th>
                     </tr>
                     {sortedData.map((player: PlayerData) => (
+                        // <PlayerRow
+                        //     rank={sortedData[sortedData.indexOf(player)][this.sortedKey] !== null ? sortedData.indexOf(player) + 1 : '-'}
+                        //     player={player}
+                        //     sortedKey={this.sortedKey}></PlayerRow>
+
+
                         <tr>
                             <td>{sortedData[sortedData.indexOf(player)][this.sortedKey] !== null ? sortedData.indexOf(player) + 1 : '-'}</td>
                             <td className="playerName">{(player.WeeksPlayed >= 4) ? <strong>{player.Name}</strong> : player.Name}</td>
@@ -67,6 +98,7 @@ class Standings extends Component {
                             <td className={this.isSorted('Week5')}>{(player.Week5 !== null) ? player.Week5 : '-'}</td>
                             <td className={this.isSorted('Week6')}>{(player.Week6 !== null) ? player.Week6 : '-'}</td>
                             <td className={this.isSorted('SumOfBests')}>{player.SumOfBests}</td>
+                            <td className={this.isSorted('StdDev')}>{this.getStandardDeviation(player)}</td>
                             <td className={this.isSorted('Total')}>{player.Total}</td>
                             <td className={this.isSorted('Average')}> {(player.Average !== null) ? Math.round(player.Average * 100) / 100 : "n/a"}</td>
                             <td className={this.isSorted('WeeksPlayed')}>{player.WeeksPlayed}</td>

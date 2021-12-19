@@ -8,6 +8,7 @@ export type PlayerData = {
     Week6: number | null;
     Week7: number | null;
     Week8: number | null;
+    StdDev?: number;
     Total: number;
     Average: number;
     WeeksPlayed: number;
