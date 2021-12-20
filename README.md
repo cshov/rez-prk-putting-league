@@ -3,4 +3,4 @@ Mostly a leaderboard for a league I'm running that gives all players access to d
 
 It was also a great excuse for me to learn React more.
 
-Served on AWS at rezprkputtingleague.com
+Served on AWS at https://www.rezprkputtingleague.com/
