@@ -5,12 +5,13 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 60px;
   pointer-events: none;
 }
 
 h1 {
   font-size: 54px;
+  padding: 0 20px;
 }
 
 h2 {
@@ -23,7 +24,7 @@ p {
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 5s linear;
   }
 }
 
@@ -31,7 +32,7 @@ p {
   background-color: #282c34;
   min-height: 80px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);

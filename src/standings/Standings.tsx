@@ -1,4 +1,4 @@
-import './Standings.css';
+import './Standings.scss';
 import StandingsData from "../data/standings.json";
 import {PlayerData} from "../models/standings-models";
 import {Component,} from "react";
