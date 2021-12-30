@@ -47,8 +47,8 @@ table tr th, table tr td {
 
 table tr th:first-child, table tr td:first-child {
     flex: none;
-    width: 40px;
-    text-align: left;
+    width: 50px;
+    text-align: center;
 }
 
 @media only screen and (max-width: 600px) {
