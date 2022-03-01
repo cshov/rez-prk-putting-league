@@ -110,11 +110,12 @@ class Standings extends Component {
                             {/*<td className={this.isSorted('WeeksPlayed')}>{player.WeeksPlayed}</td>*/}
                         </tr>
                     ))}
-                    {sortedData.map((player: PlayerData) => (
+
+                    {/*{sortedData.map((player: PlayerData) => (
                         // <PlayerChart playerDataObject={player} />
                         <PlayerChart { ...player} />
                     ))}
-
+*/}
 
 
                 </table>
