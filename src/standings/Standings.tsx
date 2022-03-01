@@ -1,7 +1,9 @@
 import './Standings.scss';
-import StandingsData from "../data/standings.json";
+// import StandingsData from "../data/standings.json";
+import StandingsData from "../data/standings2.json";
 import {PlayerData} from "../models/standings-models";
 import {Component,} from "react";
+import PlayerChart from "../playerChart/PlayerChart";
 
 // import PlayerRow from '../playerRow/PlayerRow';
 
@@ -63,7 +65,7 @@ class Standings extends Component {
 
         return (
             <div className="standingsWrapper">
-                <p>Now Sortable! Just click on the column you want to sort by</p>
+                <p>Season 2 stats</p>
                 <p>*Names in bold have qualified for the finals by playing 4 weeks</p>
                 <table>
                     <tr className={"sortableHeaders"}>
@@ -108,6 +110,13 @@ class Standings extends Component {
                             {/*<td className={this.isSorted('WeeksPlayed')}>{player.WeeksPlayed}</td>*/}
                         </tr>
                     ))}
+                    {sortedData.map((player: PlayerData) => (
+                        // <PlayerChart playerDataObject={player} />
+                        <PlayerChart { ...player} />
+                    ))}
+
+
+
                 </table>
             </div>
         );
